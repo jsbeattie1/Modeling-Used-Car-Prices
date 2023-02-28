@@ -1,4 +1,4 @@
-This analysis of used car prices has the following primary findings:
+This analysis of used car prices (full analysis at https://github.com/jsbeattie1/project_used_cars/blob/master/Modeling%20Used%20Car%20Prices.ipynb) has the following primary findings:
 
 (1) The most important determinant of a used car's price, by far, is its year of manufacture. While this isn't surprising in the least, it is worth noting that the relationship is not a simple linear one - a used car's price can be predicted most effectively by incorporating both the year of the car and the year squared (which helps to capture the curved nature of the relationship).
 
