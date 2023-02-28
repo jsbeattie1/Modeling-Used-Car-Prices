@@ -1,0 +1,15 @@
+This analysis of used car prices has the following primary findings:
+
+(1) The most important determinant of a used car's price, by far, is its year of manufacture. While this isn't surprising in the least, it is worth noting that the relationship is not a simple linear one - a used car's price can be predicted most effectively by incorporating both the year of the car and the year squared (which helps to capture the curved nature of the relationship).
+
+The relationship between year and price is especially complicated when older vehicles - those made before the 1970s - are included. There is a great deal of variability in the price of older cars, in part simply because there are fewer of them (and smaller samples generate less dependable patterns), and in part, presumably, because some are very high-priced collector's items. Since more recent cars (1970s on) make up the overwhelming majority of used car purchases, the remainder of the analysis will focus on them.
+
+(2) When the year of the car is held fixed, the features that most help to predict a car's price are as follows: the number of cylinders in the engine (more cylinders --> higher price), the type of fuel used (diesel --> higher price, gas --> lower price), the type of drivetrain (4-wheel drive --> higher price, front-wheel drive --> lower price), and the odometer reading (lower odometer --> higher price).
+
+(3) Another pattern that can be seen is that trucks tend to sell for higher prices than other types of vehicles, but I believe this can be largely or even wholly explained by the differences listed above - that is, trucks tend to have more cylinders, they more frequently run on diesel fuel, and they more frequently have 4-wheel drive. But these factors are positively associated with higher prices on other vehicles as well as trucks, so they appear to be attractive in their own right (and are presumably part of what draws people to purchasing trucks).
+
+Recommendations:
+
+Based on this analysis, the best way to obtain a higher average sale price would be to increase the share of newer cars in the inventory. Further benefit would come from increasing the share of (in order of importance) vehicles with a high number of cylinders in the engine, diesel vehicles, 4-wheel drive vehicles, and vehicles that have been driven for a lower-than-average number of miles (for the year of manufacture).
+
+However, increasing the average sale price alone is not the main goal. It is also important to factor in a vehicle's likely acquisition costs and likely speed of sale. The year of manufacture, for instance, is so widely known as a key driver of sale price that it is almost surely reflected in the acquisition costs. So the crucial next step is to examine these other factors - acquisition costs and speed of sale - in order to learn about the key drivers of profitability in used car sales. The ultimate goal is to gain additional margin by favoring vehicle features that drive higher sale prices without driving proportionally higher acquisition costs.
